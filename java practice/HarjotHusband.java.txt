@@ -1,7 +1,0 @@
-public class HarjotHusband
-{
- public static void main(String[]args)
- { 
-  System.out.println("Harjot is my husband!!");
- }
-}
